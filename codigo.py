@@ -1,2 +1,3 @@
-print("Hola mundo!")
-print("Adios")
+def suma(a,b)
+    return a+b
+    print(suma)
